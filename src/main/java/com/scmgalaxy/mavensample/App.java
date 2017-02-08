@@ -2,7 +2,7 @@ package com.scmgalaxy.mavensample;
 
 /**
  * Hello world!
- *commiting changes
+ *commiting
  */
 public class App 
 {
